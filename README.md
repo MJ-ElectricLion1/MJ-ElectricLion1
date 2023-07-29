@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MJ-ElectricLion1
-- 👀 I’m interested in creating NFTs, learning blockchain, and programing 
-- 🌱 I’m currently learning Blender 3.12, learning to Write code, VSC
-- 💞️ I’m looking to collaborate on not sure, I do want to create my own project eventually, i am trying to figure out how to make a NFT generator for my Blender Objects. Found 1 
--   not working well i can figure out how to import all of my assets into 1 blender scene, without doing it individually. Any help there would be great. Thanks
+- 👋 Hi, I’m @MJ-NSTRUMENTALIZ3-, Electric_Lion1
+- 💞️ I’m looking to collaborate with projects that would like to have their NFT's instrumentalized.
+- 👀 I’m interested in creating NFTs, and decentralized music 
+- 🌱 I’m currently working with an Ethereum based Web3 music project, INSTRUMENTALIZ3, and learning Blender
+-  Found 1 
 - 📫 How to reach me 107370877+MJ-ElectricLion1@users.noreply.github.com
 
 <!---
